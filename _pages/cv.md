@@ -11,27 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Informatics, SUNY @ Albany, 2027 (expected)
-* M.S. in Educational Technology, College of Saint Rose, 2014
-* B.S. in Network Administration, SUNY @ Cobleskill, 2010
+* Ph.D in Technology and Learning, University of Albany, State University of New York, 2027 (expected)
+* M.Ed. in Educational Technology Specialist, College of Saint Rose, 2014
+* B.T. in Educational Technology, SUNY Cobleskill, 2010
+* A.S. in Information Management, Dutchess Community College
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* January 2020-Current: Senior IT Suppor Administrator
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+* September 2020-Current: Adjunct Professor 
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* December 2017-September 2019: Technology Coordinator
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
+* November 2015-December 2017:  School Technologist
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* August 2014-November 2105: Program Coordinator
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* December 2011-August 2014: Microcomputer Specialist
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
 Skills
 ======
 * Skill 1
@@ -40,3 +56,25 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+#Publications
+#======
+#  <ul>{% for post in site.publications reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+#  
+#Talks
+#======
+#  <ul>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
+#  
+#Teaching
+#======
+#  <ul>{% for post in site.teaching reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+#  
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
