@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 Under Construction
+======
 
 Crystal Jones-Howe is a dedicated professional with a passion for education and technology.  Her academic journey reflects her commitment to lifelong learning. 
 
