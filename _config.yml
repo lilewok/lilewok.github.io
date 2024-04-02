@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Crystal Jones-Howe / Graduate Student"
 title_separator          : "-"
-name                     : &name "Crystal Jones-Howe"
+name                     : &name "Crystal Jones-Howe, MSEd"
 description              : &description "Graduate Student"
 url                      : https://lilewok.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
