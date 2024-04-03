@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Crystal Jones-Howe - Graduate Student"
+title: "Crystal Jones-Howe - PhD Student"
 author_profile: true
 redirect_from: 
   - /about/
