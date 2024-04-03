@@ -21,7 +21,7 @@ Work experience
 * January 2020-Current: Senior IT Suppor Administrator
   * Dutchess Community College
   * Duties includes: Updates and improvements to template
-  * Supervisor: Alex Valentine
+  * Supervisor: Alex Valentin
 
 * September 2020-Current: Adjunct Professor 
   * Dutchess Community College
