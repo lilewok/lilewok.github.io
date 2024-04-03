@@ -19,32 +19,37 @@ Education
 Work experience
 ======
 * January 2020-Current: Senior IT Suppor Administrator
-  * Github University
+  * Dutchess Community College
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
 * September 2020-Current: Adjunct Professor 
-  * Github University
+  * Dutchess Community College
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
 * December 2017-September 2019: Technology Coordinator
-  * Github University
+  * Mechanicville Central School District
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
 * November 2015-December 2017:  School Technologist
-  * Github University
+  * Shenendehowa Central School District
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
+* January 2016-January 2020: Adjunct Professor 
+  * The College of Saint Rose
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
 * August 2014-November 2105: Program Coordinator
-  * Github University
+  * Northeastern Regional Information Center
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
 * December 2011-August 2014: Microcomputer Specialist
-  * Github University
+  * WSWHE Board of Cooperative Education Services
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
