@@ -20,44 +20,50 @@ Work experience
 ======
 * January 2020-Current: Senior IT Suppor Administrator
   * Dutchess Community College
-  * Duties includes: Updates and improvements to template
+  * Duties includes: 
   * Supervisor: Alex Valentin
 
 * September 2020-Current: Adjunct Professor 
   * Dutchess Community College
-  * Duties included: Merging pull requests
+  * Duties included: 
   * Supervisor: PJ Darcy
 
 * December 2017-September 2019: Technology Coordinator
   * Mechanicville Central School District
-  * Duties included: Tagging issues
+  * Duties included: 
   * Supervisor: William Williams
 
 * November 2015-December 2017:  School Technologist
   * Shenendehowa Central School District
-  * Duties included: Tagging issues
+  * Duties included: 
   * Supervisor: Kenneth McDermith
 
 * January 2016-January 2020: Adjunct Professor 
   * The College of Saint Rose
-  * Duties included: Merging pull requests
+  * Duties included: 
   * Supervisor: Dr Ian MacDonald
 
 * August 2014-November 2105: Program Coordinator
   * Northeastern Regional Information Center
-  * Duties included: Tagging issues
+  * Duties included: 
   * Supervisor: John Wyld
 
 * December 2011-August 2014: Microcomputer Specialist
   * WSWHE Board of Cooperative Education Services
-  * Duties included: Tagging issues
+  * Duties included: 
   * Supervisor: Erwin Brace
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* NYS Certified Teacher: Technology Education (K-12)
+* Windows Desktop
+* Apple OSX
+* Linux OS
+* Chrome OS
+* Google Admin Console
+* Network Design
+* Hardware/Software 
+* Project Management
+* Virtualization
+* Network Analysis & Administration
+* Web Design
