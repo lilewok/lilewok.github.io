@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Cybersecurity Awareness and Preparedness in Higher Education Through Gamified Learning Platforms"
-excerpt: "Created for New Trends in Information Conference 2024<br/><img src='/images/500x300.png'>"
+excerpt: "Presented at the <a href="https://www.albany.edu/ualbany-showcase"> UAlbany Showcase 2024</a><br/><img src='/images/500x300.png'>"
 date: 2024-04-02
 collection: portfolio
 ---
