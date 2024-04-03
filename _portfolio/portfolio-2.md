@@ -1,7 +1,7 @@
 ---
-title: "Enhancing Cybersecurity Awareness and Preparedness in Higher Education Throught Gamified Learning Platforms"
-excerpt: "Presented at the UAlbany Showcase 2024<br/><img src='/images/500x300.png'>"
-date: 2024-04-30
+title: "Assistive Technology Use for Adults on the Autism Spectrum"
+excerpt: "Created for New Trends in Information Conference 2023<br/><img src='/images/500x300.png'>"
+date: 2023-04-19
 collection: portfolio
 ---
 
