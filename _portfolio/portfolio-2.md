@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Cybersecurity Awareness and Preparedness in Higher Education Through Gamified Learning Platforms"
 excerpt: "Created for New Trends in Information Conference 2024<br/><img src='/images/500x300.png'>"
-date: 2024-04-19
+date: 2024-04-02
 collection: portfolio
 ---
 
