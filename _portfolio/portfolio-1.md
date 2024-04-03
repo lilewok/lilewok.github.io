@@ -1,6 +1,6 @@
 ---
 title: "Assistive Technology Use for Adults on the Autism Spectrum"
-excerpt: "Created for New Trends in Information Conference 2023<br/><img src='/images/500x300.png'>"
+excerpt: "Created for New Trends in Information Conference 2023<br/><img src='/images/2023NTIR.png'>"
 date: 2023-04-19
 collection: portfolio
 ---
