@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Who Am I?"
+  name             : #"Who Am I?"
   pronouns         : "she/her"  
   bio              : "Crystal Jones-Howe is a Ph.D. student at the University at Albany, State University of New York. She is interested in understanding how gamification impacts the adoption of cybersecurity practices among underrepresented students in higher education and what are the most effective strategies for promoting cybersecurity awareness and behavior change among those students."
   location         : "New York"
