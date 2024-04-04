@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Girl and Her Tech"
+title: "A Girl and Her Gadgets"
 author_profile: true
 redirect_from: 
   - /about/
