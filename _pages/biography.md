@@ -1,10 +1,10 @@
 ---
 layout:  archive
-permalink: /background/
-title: "Background"
+permalink: /biography/
+title: "Biography"
 author_profile: true
 redirect_from: 
-  - /background
+  - /biography
 ---
 
 Crystal Jones-Howe is a dedicated professional with a passion for education and technology.  Her academic journey reflects her commitment to lifelong learning. 
