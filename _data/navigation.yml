@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Background"
-    url: /background/
+  - title: "Biography"
+    url: /biography/
     
   - title: "Publications"
     url: /publications/
