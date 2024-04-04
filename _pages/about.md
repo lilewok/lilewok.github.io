@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Crystal Jones-Howe - PhD Student"
+title: "A Girl and Her Tech"
 author_profile: true
 redirect_from: 
   - /about/
