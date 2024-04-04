@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
+      color: mix(#fff7fa, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -92,7 +92,7 @@
       }
 
       &.current {
-        color: #ffffff;
+        color: #fff7fa;
         background: #fff7fa;
       }
 
@@ -374,7 +374,7 @@
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #fff7fa;
+  background-color: #fff;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
