@@ -11,9 +11,9 @@ Introduction
 ======
 
 Hello and welcome to my page.  My name is Crystal Jones-Howe and I am a 2nd year part-time PhD student at the University at Albany, State University of New York. My primary specializtion is a self-designed study in Technology in Education, with a secondary specializtion on Information in Organizational Environments.<br/>
-My passion for technology started at a young age as i was known for taking things apart and wanting to create.  However, the true possibility of technologies impact occured during my early teens when i first came in contact with this budding technology called the internet.  <br/>
-I credit the internet with changing the trajectory of my life and i have been fortunate enought to see it's growth and the impact it has on the world.  It expanded my world view, and opened my future to possibilities that were previous unimaginable <br/>
-Currently, I reside in the beautiful Hudson Valley, with my husband, my daughter, our two adorable dogs and one grumpy but spoiled cat.  I am an Sr. IT Support Administration at Dutchess Community College, where i manage the Student-staffed helpdesk and mentor the students as they start their journey into their technology careers.  <br/>
+My passion for technology started at a young age as I was known for taking things apart and wanting to create.  However, the true possibility of technology's impact occurred during my early teens when I first came in contact with this budding technology called the Internet.  <br/>
+I credit the internet with changing the trajectory of my life and i have been fortunate enough to see its growth and the impact it has on the world.  It expanded my world view and opened my future to possibilities that were previously unimaginable. <br/>
+Currently, I reside in the beautiful Hudson Valley with my husband, my daughter, our two adorable dogs and one grumpy but spoiled cat.  I am a Sr. IT Support Administration at Dutchess Community College, where i manage the student-staffed helpdesk and mentor the students as they start their journey into their technology careers.  <br/>
 <br/>
 
 More About Me
