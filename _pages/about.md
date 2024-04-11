@@ -10,9 +10,9 @@ redirect_from:
 Introduction
 ======
 
-Hello and welcome to my page.  My name is Crystal Jones-Howe and I am a 2nd year part-time PhD student at the University at Albany, State University of New York. My primary specializtion is a self-designed study in Technology in Education, with a secondary specializtion on Information in Organizational Environments.<br/><br/>
+Hello and welcome to my page.  My name is Crystal Jones-Howe and I am a 2nd year part-time PhD student at the University at Albany, State University of New York. My primary specialization is a self-designed study in Technology in Education, with a secondary specialization on Information in Organizational Environments.<br/><br/>
 My passion for technology started at a young age as I was known for taking things apart and wanting to create.  However, the true possibility of technology's impact occurred during my early teens when I first came in contact with this budding technology called the Internet.  <br/><br/>
-I credit the internet with changing the trajectory of my life and I have been fortunate enough to see its growth and impact on the world.  It expanded my worldview and opened my future to previously unimaginable possibilities. <br/><br/>
+I credit the internet for changing the trajectory of my life and I have been fortunate enough to see its growth and impact on the world.  It expanded my worldview and opened my future to previously unimaginable possibilities. <br/><br/>
 I reside in the beautiful Hudson Valley with my husband, my daughter, our two adorable dogs, and one grumpy but spoiled cat.  I am a Sr. IT Support Administrator at Dutchess Community College. I manage the student-staffed helpdesk and mentor the students as they start their journey into their technology careers.  <br/>
 <br/>
 
